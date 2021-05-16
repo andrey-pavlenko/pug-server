@@ -1,14 +1,13 @@
 {
   "name": "pugserver",
   "description": "a dynamic pug server",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "bin": "./pugserver.js",
   "preferGlobal": true,
   "author": "Yorick <yorick@ctrlalt.dev>",
   "dependencies": {
     "node-static": "^0.7.11",
-    "pug": "^3.0.1",
-    "snyk": "^1.518.0"
+    "pug": "^3.0.2"
   },
   "repository": {
     "type": "git",
@@ -34,11 +33,12 @@
   ],
   "devDependencies": {
     "eslint": "^6.8.0",
-    "eslint-config-standard": "^14.1.0",
-    "eslint-plugin-import": "^2.19.1",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.23.2",
     "eslint-plugin-node": "^10.0.0",
-    "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-standard": "^4.0.1"
+    "eslint-plugin-promise": "^4.3.1",
+    "eslint-plugin-standard": "^4.1.0",
+    "snyk": "^1.595.0"
   },
   "snyk": true
 }

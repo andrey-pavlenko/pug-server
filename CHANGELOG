@@ -1,3 +1,7 @@
+v1.1.1
+
+* update dependencies
+
 v1.1.0
 
 * refactor the server to drop the pug extention in the url
